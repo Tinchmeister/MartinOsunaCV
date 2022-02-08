@@ -1,4 +1,4 @@
 # MartinOsunaCV
 
 
-ACERCA DE MI, CONTENIDO DE CARPETAS, ETC
+ACERCA DE MI (me especializo en esto, hago esto, blah blah blah) , CONTENIDO DE CARPETAS, ETC
